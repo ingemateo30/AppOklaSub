@@ -1,0 +1,7 @@
+{
+  "name": "app-oklam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
